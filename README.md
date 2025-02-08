@@ -41,8 +41,8 @@ cd CalculadoraCSharp
 ## 👨‍💻 Autor
 - **Alejandro Morena** ✨
 
-## 🤝 Contribución
-Si deseas mejorar esta calculadora, siéntete libre de enviar un **Pull Request** o abrir un **Issue** en el repositorio. 🎉
+- ## 🤝 Contribución
+Si deseas mejorar este proyecto, revisa el archivo `CONTRIBUIR.md` para más detalles sobre cómo contribuir. 🎉
 
 ## 📜 Licencia
 Este proyecto es de código abierto y de uso educativo. 📚

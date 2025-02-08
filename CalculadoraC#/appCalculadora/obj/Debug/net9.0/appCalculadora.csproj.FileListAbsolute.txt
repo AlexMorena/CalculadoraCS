@@ -1,0 +1,14 @@
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\bin\Debug\net9.0\appCalculadora.exe
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\bin\Debug\net9.0\appCalculadora.deps.json
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\bin\Debug\net9.0\appCalculadora.runtimeconfig.json
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\bin\Debug\net9.0\appCalculadora.dll
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\bin\Debug\net9.0\appCalculadora.pdb
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.AssemblyInfoInputs.cache
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.AssemblyInfo.cs
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.dll
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\refint\appCalculadora.dll
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.pdb
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\appCalculadora.genruntimeconfig.cache
+C:\Users\Alexsketit\Desktop\CalculadoraC#\appCalculadora\obj\Debug\net9.0\ref\appCalculadora.dll
